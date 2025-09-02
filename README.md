@@ -37,3 +37,11 @@ A classe `.container` não foi utilizada como elemento global padrão. Em vez di
  `.info-equipe`
 
 Essas divisões atuam como containers personalizados, utilizando `display: flex`, largura fixa e margens para centralização e alinhamento dos conteúdos. Essa abordagem garante uma estrutura consistente e mais destoante(desculpe se escrevi errado) 
+
+## Escolha das tags
+
+<header>`: contém o menu de navegação principal, com links para as seções do site.
+ `<nav>`: utilizado para agrupar os links de navegação.
+ `<section>`: cada área de conteúdo principal (Sobre, Campanhas, Equipe etc.) está dentro de uma seção para melhor delimitação do conteúdo.
+-`<article>` e `<div>`: usados para blocos específicos de conteúdo, onde o uso de `<article>` indica conteúdo independente e `<div>` para agrupamento genérico, sendo mais facil pra mim entender
+ `<footer>`: para as informações de rodapé, como direitos autorais.
