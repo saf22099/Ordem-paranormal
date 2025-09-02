@@ -10,8 +10,11 @@ O tema do site é inspirado no clima de mistério, ocultismo e investigação pr
 A paleta de cores foi escolhida para reforçar o tom sombrio da ultimas temporadas
 
   **Fundo principal:** `#07070D` — preto 
+  
   **Textos:** `#FFFFFF` — branco puro para contraste e legibilidade.
+  
   **Elementos interativos (botões e hovers):** `#FFBC4F` e `#F2A74B` — tons alaranjados que destacam o botão
+  
   **Sombras de texto:** Amarelas, para dar destaque e leve brilho, simulando um efeito luminoso.
 
 ## Estrutura de Navegação
