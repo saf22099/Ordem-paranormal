@@ -3,7 +3,7 @@
 Este projeto consiste em um site estático desenvolvido para apresentar o universo do RPG Ordem Paranormal. O objetivo é informar o visitante sobre as campanhas, ambientações e o criador da obra, com uma estrutura visual clara e claramente bonita!
 
 ## Tema do Site
-O tema do site é inspirado no clima de mistério, ocultismo e investigação presentes em Ordem Paranormal, uma serie de RPG feita por cellbit!
+O tema do site é inspirado no clima de mistério, ocultismo e investigação presentes em Ordem Paranormal, uma serie de RPG feita por cellbit
 
 ## Paleta de Cores
 
